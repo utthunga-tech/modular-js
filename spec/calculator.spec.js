@@ -1,4 +1,4 @@
-const add=require('../calculator.js')
+const add=require('../app/calculator.js')
 describe("Calculator Test Suite ", function() {
     describe("Add function test", function() {
         it("Assert True", function() {
