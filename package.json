@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "sudo ./node_modules/.bin/jasmine-node spec --verbose"
+    "test": "jasmine-node spec --verbose"
   },
   "repository": {
     "type": "git",
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/utthunga-tech/modular-js/issues"
   },
-  "homepage": "https://github.com/utthunga-tech/modular-js#readme",
-  "dependencies": {
-    "jasmine-node": "^3.0.0"
-  }
+  "homepage": "https://github.com/utthunga-tech/modular-js#readme"
 }
