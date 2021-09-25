@@ -33,6 +33,6 @@ jobs:
         run: npm install
 
       # Runs a set of commands using the runners shell
-      - name: Run index.js
-        run: npm start
+      - name: Run Tests
+        run: npm run test
          
