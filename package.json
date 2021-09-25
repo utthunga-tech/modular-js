@@ -1,0 +1,19 @@
+{
+  "name": "modular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utthunga-tech/modular-js.git"
+  },
+  "author": "venu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utthunga-tech/modular-js/issues"
+  },
+  "homepage": "https://github.com/utthunga-tech/modular-js#readme"
+}
